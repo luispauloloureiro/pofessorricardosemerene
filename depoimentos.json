@@ -1,0 +1,114 @@
+[
+  {
+    "nome": "Ana Carolina Silva",
+    "nota": 5,
+    "texto": "O Ricardo é simplesmente fantástico! Minha filha estava com muita dificuldade em matemática e em apenas 2 meses sua performance mudou completamente. A didática dele é incrível!",
+    "data": "2025-03-15",
+    "curso": "ENEM"
+  },
+  {
+    "nome": "Carlos Eduardo Mendes",
+    "nota": 5,
+    "texto": "Melhor investimento que fiz para minha aprovação. O método dele é muito prático e focado em resultados. Fui aprovado na UFG graças ao acompanhamento do Ricardo.",
+    "data": "2025-02-20",
+    "curso": "Vestibular UFG"
+  },
+  {
+    "nome": "Juliana Almeida",
+    "nota": 5,
+    "texto": "Não acreditava que conseguiria entender matemática. O Ricardo descomplica tudo de uma forma que parece fácil! Recomendo demais.",
+    "data": "2025-01-10",
+    "curso": "Concursos"
+  },
+  {
+    "nome": "Pedro Henrique Costa",
+    "nota": 5,
+    "texto": "Aulas dinâmicas e muito bem preparadas. O material em PDF que ele envia após cada aula é excelente para revisar. Meu desempenho no colégio melhorou muito.",
+    "data": "2025-03-01",
+    "curso": "Ensino Médio"
+  },
+  {
+    "nome": "Mariana Oliveira",
+    "nota": 5,
+    "texto": "Profissional exemplar! Muito preparado, pontual e com uma paciência infinita. Minha nota no ENEM subiu 200 pontos só na matemática.",
+    "data": "2025-02-14",
+    "curso": "ENEM"
+  },
+  {
+    "nome": "Roberto Santos",
+    "nota": 5,
+    "texto": "O Ricardo tem uma capacidade única de explicar conceitos complexos de forma simples. Fui aprovado em 3 concursos diferentes com o apoio dele.",
+    "data": "2025-01-25",
+    "curso": "Concursos"
+  },
+  {
+    "nome": "Fernanda Lima",
+    "nota": 5,
+    "texto": "Minha filha adora as aulas! O Ricardo consegue prender a atenção dela e fazer com que ela goste de matemática. Resultado visível em pouco tempo.",
+    "data": "2025-03-08",
+    "curso": "Ensino Fundamental"
+  },
+  {
+    "nome": "André Luiz Ferreira",
+    "nota": 5,
+    "texto": "Excelente professor! Muito conhecimento e didática. As aulas são bem estruturadas e o suporte fora das aulas é sensacional. Vale cada centavo.",
+    "data": "2025-02-05",
+    "curso": "Vestibular"
+  },
+  {
+    "nome": "Camila Rodrigues",
+    "nota": 5,
+    "texto": "Estava desesperada antes de começar com o Ricardo. Hoje me sinto confiante e com uma base sólida. Ele realmente transforma a relação com a matemática.",
+    "data": "2025-01-18",
+    "curso": "ENEM"
+  },
+  {
+    "nome": "Lucas Pereira",
+    "nota": 5,
+    "texto": "O melhor professor de matemática que já tive. O método dele é diferente de tudo que já vi. Aprendi de verdade e não só decorei fórmulas.",
+    "data": "2025-03-22",
+    "curso": "Concursos"
+  },
+  {
+    "nome": "Patrícia Alves",
+    "nota": 5,
+    "texto": "Super recomendo! O Ricardo é muito profissional e os resultados aparecem rápido. Minha média no colégio subiu de 6 para 9 em 3 meses.",
+    "data": "2025-02-28",
+    "curso": "Ensino Médio"
+  },
+  {
+    "nome": "Thiago Nascimento",
+    "nota": 5,
+    "texto": "Aulas de altíssima qualidade. O Ricardo domina completamente o conteúdo e sabe exatamente como ensinar. Fui aprovado no concurso que eu estava estudando.",
+    "data": "2025-01-30",
+    "curso": "Concursos"
+  },
+  {
+    "nome": "Beatriz Souza",
+    "nota": 5,
+    "texto": "Não tenho palavras para agradecer! A metodologia do Ricardo é única e os resultados são impressionantes. Hoje amo matemática graças a ele.",
+    "data": "2025-03-05",
+    "curso": "Vestibular"
+  },
+  {
+    "nome": "Gustavo Henrique",
+    "nota": 5,
+    "texto": "Professor nota 10! Muito didático, paciente e sabe motivar os alunos. As aulas online são tão boas quanto presenciais. Recomendo sem dúvidas.",
+    "data": "2025-02-12",
+    "curso": "ENEM"
+  },
+  {
+    "nome": "Isabela Cristina",
+    "nota": 5,
+    "texto": "O Ricardo mudou minha vida! Eu tinha pavor de matemática e hoje me sinto segura para fazer qualquer prova. A aprovação na universidade pública foi graças a ele.",
+    "data": "2025-01-08",
+    "curso": "Vestibular"
+  },
+  {
+    "nome": "Marcelo Oliveira",
+    "nota": 5,
+    "texto": "Excelente profissional! Aulas bem planejadas, material de apoio de qualidade e um acompanhamento que faz toda diferença. Resultado: aprovação no concurso dos sonhos.",
+    "data": "2025-02-25",
+    "curso": "Concursos"
+  }
+]
