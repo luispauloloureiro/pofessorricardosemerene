@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 /* ===== RESET & BASE ===== */
 *, *::before, *::after {
     margin: 0;
@@ -580,23 +579,23 @@ img {
 }
 
 .plans-grid {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 30px;
-    align-items: end;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
     align-items: stretch;
 }
 
 .plan-card {
+    width: calc(33.333% - 20px);
     background: var(--bg-white);
     border: 2px solid var(--border);
     border-radius: var(--radius-lg);
-    padding: 40px 35px;
+    padding: 30px 20px;
     position: relative;
     transition: all 0.3s ease;
     display: flex;
     flex-direction: column;
-    min-height: 700px;
 }
 
 .plan-card:hover {
@@ -608,7 +607,6 @@ img {
 .plan-card.featured {
     border-color: var(--accent);
     background: linear-gradient(135deg, rgba(178, 150, 89, 0.03), rgba(42, 86, 83, 0.02));
-    min-height: 700px;
 }
 
 .plan-card.featured:hover {
@@ -685,7 +683,7 @@ img {
 
 .plan-price .amount {
     font-family: 'Playfair Display', serif;
-    font-size: 2.5rem;
+    font-size: 2rem;
     font-weight: 800;
     color: var(--primary);
 }
@@ -708,7 +706,7 @@ img {
 
 .plan-price .price-discount .amount {
     font-family: 'Playfair Display', serif;
-    font-size: 2.5rem;
+    font-size: 2rem;
     font-weight: 800;
     color: var(--primary);
 }
@@ -1135,9 +1133,12 @@ img {
     }
 
     .plans-grid {
-        grid-template-columns: 1fr;
-        max-width: 500px;
+        max-width: 800px;
         margin: 0 auto;
+    }
+
+    .plan-card {
+        width: calc(50% - 15px);
     }
 
     .differentials-grid {
@@ -1235,6 +1236,15 @@ img {
 
     .beliefs-grid {
         grid-template-columns: 1fr;
+    }
+
+    .plans-grid {
+        max-width: 500px;
+        margin: 0 auto;
+    }
+
+    .plan-card {
+        width: 100%;
     }
 
     .differentials-grid {
@@ -1990,14 +2000,15 @@ img {
 }
 
 .plans-grid {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
     gap: 30px;
-    align-items: end;
     align-items: stretch;
 }
 
 .plan-card {
+    width: calc(33.333% - 20px);
     background: var(--bg-white);
     border: 2px solid var(--border);
     border-radius: var(--radius-lg);
@@ -2545,9 +2556,12 @@ img {
     }
 
     .plans-grid {
-        grid-template-columns: 1fr;
-        max-width: 500px;
+        max-width: 800px;
         margin: 0 auto;
+    }
+
+    .plan-card {
+        width: calc(50% - 15px);
     }
 
     .differentials-grid {
